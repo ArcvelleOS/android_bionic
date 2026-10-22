@@ -131,6 +131,7 @@ static const char* const kMountFilterKeywords[] = {
 
 static const char* const kAllowlistedPackages[] = {
     "org.lineageos.updater",
+    "org.arcvelle.updater",
     nullptr
 };
 
